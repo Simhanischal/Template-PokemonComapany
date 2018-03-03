@@ -1,0 +1,49 @@
+body{
+    padding-bottom: 20px;
+    color:#5a5a5a;
+}
+
+.navbar-wrapper{
+    position:absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+}
+
+
+.carousel slide{
+    height: 500px;
+  
+}
+
+.carousel-inner > .carousel-item > img{
+  ;
+    height: 500px;
+    min-width: 100%;
+    position:absolute
+    top: 0;
+    left: 0;
+    
+   
+}
+.navbar-wrapper > .container > .navbar {
+    width: auto;
+    
+}
+.carousel > .item{
+    height: 500px;
+    background-color: #777;
+    
+}
+.carousel-caption{
+    color:black;
+    margin-bottom: 200px;
+}
+.team > .row > .col-lg-4{
+    text-align: center;
+    padding: 70px;
+}
+.content{
+    padding-bottom: 50px;
+}
